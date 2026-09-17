@@ -4,7 +4,10 @@ layout: default
 
 # My Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.s
+Here are some of the projects I have done or are currently working on. For more projects check out my github linked below.
+
+Github: <br>
+<https://github.com/EdvinAndersson>
 
 ## Layer Hunt 1
 
@@ -21,133 +24,24 @@ Layer Hunt is a survival sandbox and dungeon game where the goal is to survive a
     margin:10px 0;
 ">
     <img src="{{ '/assets/LayerHunt1Image2.png' | relative_url }}" style="width:100%; height:auto;">
-    <img src="{{ '/assets/LayerHunt1Image2.png' | relative_url }}" style="width:100%; height:auto;">
-    <img src="{{ '/assets/LayerHunt1Image2.png' | relative_url }}" style="width:100%; height:auto;">
-    <img src="{{ '/assets/LayerHunt1Image2.png' | relative_url }}" style="width:100%; height:auto;">
+    <img src="{{ '/assets/LayerHunt1Image3.png' | relative_url }}" style="width:100%; height:auto;">
+    <img src="{{ '/assets/LayerHunt1Image4.png' | relative_url }}" style="width:100%; height:auto;">
+    <img src="{{ '/assets/LayerHunt1Image5.png' | relative_url }}" style="width:100%; height:auto;">
 </div>
 
 ## Layer Hunt 2
 ![LayerHuntImage](assets/LayerHunt2Image1.png)
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+This is the sequel of Layer Hunt. Instead of a 2D world like its predecessor, the world is now 3D. The meshes are generated from the same sprites but are extruded by 1 pixel, giving a unique 2.5D art-style. This is currently under development and will be released on Steam.
 
 ## Cogwheel Game Engine
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+![LayerHuntImage](assets/Cogwheel.png)
+
+A 3D game engine created as Bachelor thesis project. The engine has an Editor like Unity/Unreal and is capable of creating small simple games, including meshes, materials, and custom scripts. The engine is written in C++, but most of the codebase is written in C-styled data-oriented way, with a large focus on performance and memory.
 
 ## Unity Sprite Extruder Asset
 ![LayerHuntImage](assets/SpriteExtruder.png)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Sprite Extruder is a Unity Store Asset which converts Sprite assets into extruded 3D meshes while preserving the shape of the visible sprite. It handles transparent pixels and is able to extrude sprites to different depths. Uses greedy meshing to reduce unnecessary geometry and generate optimized meshes with fewer faces and vertices.
 
-<!--
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
--->
+![LayerHuntImage](assets/SpriteExtruder2.png)
