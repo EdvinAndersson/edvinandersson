@@ -37,8 +37,7 @@ This is the sequel of Layer Hunt. Instead of a 2D world like its predecessor, th
 
 A 3D game engine created as Bachelor thesis project. The engine has an Editor like Unity/Unreal and is capable of creating small simple games, including meshes, materials, and custom scripts. The engine is written in C++, but most of the codebase is written in C-styled data-oriented way, with a large focus on performance and memory.
 
-Github: <br>
-<https://github.com/EdvinAndersson>
+[Cogwheel on Github](https://github.com/EdvinAndersson/Cogwheel)
 
 ## Unity Sprite Extruder Asset
 ![LayerHuntImage](assets/SpriteExtruder.png)
