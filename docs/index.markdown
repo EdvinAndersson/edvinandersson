@@ -8,7 +8,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Layer Hunt 1
 
-![LayerHuntImage](https://github.com/EdvinAndersson/edvinandersson/tree/main/res/AnnouncementsCapsule.png)
+![LayerHuntImage](assets/AnnouncementsCapsule.png)
+
 Steam store page: <https://store.steampowered.com/app/2084230/Layer_Hunt/>
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
