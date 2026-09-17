@@ -8,20 +8,34 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Layer Hunt 1
 
-![LayerHuntImage](assets/AnnouncementsCapsule.png)
+![LayerHunt1Image](assets/LayerHunt1.png)
 
 Steam store page: <https://store.steampowered.com/app/2084230/Layer_Hunt/>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Layer Hunt is a survival sandbox and dungeon game where the goal is to survive and hunt down all the bosses. To reach your goal you will have to mine, craft, build, farm, fight and explore for new abilities and resources. The world is broken up through many different layers that each offer new enemies, minerals and dungeons to explore. To progress, the player must explore all these layers and eliminate each layer's boss to finally beat the game.
+
+<div style="
+    display:grid;
+    grid-template-columns:repeat(2, 1fr);
+    gap:12px;
+    margin:10px 0;
+">
+    <img src="{{ '/assets/LayerHunt1Image2.png' | relative_url }}" style="width:100%; height:auto;">
+    <img src="{{ '/assets/LayerHunt1Image2.png' | relative_url }}" style="width:100%; height:auto;">
+    <img src="{{ '/assets/LayerHunt1Image2.png' | relative_url }}" style="width:100%; height:auto;">
+    <img src="{{ '/assets/LayerHunt1Image2.png' | relative_url }}" style="width:100%; height:auto;">
+</div>
 
 ## Layer Hunt 2
-
+![LayerHuntImage](assets/LayerHunt2Image1.png)
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Cogwheel Game Engine
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Unity Sprite Extruder Asset
+![LayerHuntImage](assets/SpriteExtruder.png)
+
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 <!--
