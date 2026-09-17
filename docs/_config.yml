@@ -2,7 +2,7 @@ title: Edvin Andersson
 email: edvin.andersson.vbg@gmail.com
 description: >-
   I'm 24 years old and have a passion for programming and making games.
-baseurl: "/edvinandersson"
+baseurl: ""
 url: "https://edvinandersson.github.io"
 github_username:  edvinandersson
 theme: jekyll-theme-slate
