@@ -4,16 +4,14 @@ layout: default
 
 # My Projects
 
-Here are some of the projects I have done or are currently working on. For more projects check out my github linked below.
+Here are some of the projects I have done or are currently working on. For more projects check out [my GitHub](https://github.com/EdvinAndersson).
 
-Github: <br>
-<https://github.com/EdvinAndersson>
 
 ## Layer Hunt 1
 
 ![LayerHunt1Image](assets/LayerHunt1.png)
 
-Steam store page: <https://store.steampowered.com/app/2084230/Layer_Hunt/>
+[Layer Hunt on Steam](https://store.steampowered.com/app/2084230/Layer_Hunt/)
 
 Layer Hunt is a survival sandbox and dungeon game where the goal is to survive and hunt down all the bosses. To reach your goal you will have to mine, craft, build, farm, fight and explore for new abilities and resources. The world is broken up through many different layers that each offer new enemies, minerals and dungeons to explore. To progress, the player must explore all these layers and eliminate each layer's boss to finally beat the game.
 
@@ -38,6 +36,9 @@ This is the sequel of Layer Hunt. Instead of a 2D world like its predecessor, th
 ![LayerHuntImage](assets/Cogwheel.png)
 
 A 3D game engine created as Bachelor thesis project. The engine has an Editor like Unity/Unreal and is capable of creating small simple games, including meshes, materials, and custom scripts. The engine is written in C++, but most of the codebase is written in C-styled data-oriented way, with a large focus on performance and memory.
+
+Github: <br>
+<https://github.com/EdvinAndersson>
 
 ## Unity Sprite Extruder Asset
 ![LayerHuntImage](assets/SpriteExtruder.png)
